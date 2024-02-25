@@ -27,8 +27,8 @@ body {
   border-radius: 10px;
   padding: 20px;
   text-align: center;
-  box-shadow: 0px 0px 18px 14px hsl(214, 57%, 7%),
-    0px 8px 11px 20px hsl(216deg 71.64% 15.38%);
+    box-shadow: 0 0 12px 24px rgba(0, 0, 0, 0.15);
+
 }
 .contaner .img {
   width: 100%;
